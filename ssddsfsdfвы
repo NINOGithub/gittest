@@ -1,0 +1,105 @@
+[33mcommit 6a42b8a3466f8866f45866afffe1cdaef7401fb9[m[33m ([m[1;36mHEAD[m[33m -> [m[1;32mmaster1[m[33m)[m
+Merge: 4459b60 23c013b
+Author: Nikolai Novikov <nikolai.novikov@gmail.com>
+Date:   Mon Nov 18 23:32:59 2024 +0300
+
+    Merge branch 'feature1' into master1
+
+[33mcommit 4459b60655afc9a2f21d0ebe2607b1fc419e53fe[m
+Author: Nikolai Novikov <nikolai.novikov@gmail.com>
+Date:   Mon Nov 18 23:32:17 2024 +0300
+
+    changed fufu
+
+[33mcommit 23c013b3e7ba428bd559ae8a73b2b62dc23bbb28[m[33m ([m[1;32mfeature1[m[33m)[m
+Author: Nikolai Novikov <nikolai.novikov@gmail.com>
+Date:   Mon Nov 18 23:30:59 2024 +0300
+
+    created fubar
+
+[33mcommit f706c9343a194f1811ec6503972a1cbe49d4eb9d[m[33m ([m[1;31morigin/master[m[33m, [m[1;32mmaster[m[33m)[m
+Author: Nikolai Novikov <nikolai.novikov@gmail.com>
+Date:   Sat Nov 2 00:17:38 2024 +0300
+
+    fubar
+
+[33mcommit d9dc5584dd0b915d3ae63baf680f6c9043c290cc[m
+Author: NINOGithub <nikolai.novikov@gmail.com>
+Date:   Tue Jul 23 21:39:20 2019 +0300
+
+    test update
+
+[33mcommit ea0723bfc9d12565b26122d6bf84e2aa7b8241ee[m
+Author: NN <NN>
+Date:   Mon Jan 7 21:39:23 2019 +0300
+
+    test sshkey
+
+[33mcommit dbd3bd8864a045f60b1e8bf549d703499e2e68d6[m
+Author: unknown <novikovn@WSM-0852.netcracker.com>
+Date:   Thu Oct 27 18:23:14 2016 +0300
+
+    remove target from controll
+
+[33mcommit 96d3e6cc668ee6620cb4f22906f3f0db9dd133ba[m
+Author: unknown <novikovn@WSM-0852.netcracker.com>
+Date:   Thu Oct 27 15:55:46 2016 +0300
+
+    add logging
+
+[33mcommit 178ef0439ef5008e298ebf946a09ede8b2604c93[m
+Author: unknown <novikovn@WSM-0852.netcracker.com>
+Date:   Mon Feb 1 19:32:04 2016 +0300
+
+    File to Path
+
+[33mcommit 124b4e95abc97d0a6bd188aba322389c33edf36e[m
+Author: NINOGithub <nikolai.novikov@gmail.com>
+Date:   Tue Jan 26 21:11:05 2016 +0300
+
+    remove TT 2
+
+[33mcommit c833c68c7c5a7859b7299a4030cabc6a55d26437[m
+Author: NINOGithub <nikolai.novikov@gmail.com>
+Date:   Tue Jan 26 21:08:49 2016 +0300
+
+    Remove TT
+
+[33mcommit ed4b7c15040398ab47726038c0a1418d7535c046[m
+Author: NINOGithub <nikolai.novikov@gmail.com>
+Date:   Tue Jan 26 21:05:17 2016 +0300
+
+    cleanup
+
+[33mcommit 48c776651a3d21843407c84cb56802d186c269b6[m
+Author: NINOGithub <nikolai.novikov@gmail.com>
+Date:   Tue Jan 26 19:38:06 2016 +0300
+
+    base version
+
+[33mcommit bbd9b5f43f5c36904f74ec4a10475b6d3fbbcb9a[m
+Merge: 5242ee9 a33a7e9
+Author: NINOGithub <nikolai.novikov@gmail.com>
+Date:   Tue Jan 26 19:22:53 2016 +0300
+
+    Merge branch 'master' of https://github.com/NINOGithub/sudoku
+
+[33mcommit a33a7e9d9396e4c96fc8d5b4f3d5a38f3f5dd2a0[m
+Author: NINOGithub <nikolai.novikov@gmail.com>
+Date:   Tue Jan 26 19:21:57 2016 +0300
+
+    cxvfiujkb
+    
+    dfg
+
+[33mcommit 5242ee94a7f6b4a66903e543f0a399d1a9d12402[m
+Author: NINOGithub <nikolai.novikov@gmail.com>
+Date:   Tue Jan 26 19:18:34 2016 +0300
+
+    teh message
+
+[33mcommit b75f752c8e9f928e5f9f81ec5d7c2357299a2d72[m
+Author: NINOGithub <nikolai.novikov@gmail.com>
+Date:   Thu Dec 24 23:20:15 2015 +0300
+
+    :octocat: Added .gitattributes & .gitignore files
